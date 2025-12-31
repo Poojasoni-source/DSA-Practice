@@ -13,7 +13,10 @@ It demonstrates array manipulation, sorting, and the two-pointer technique.
 2. Fix one element and use **two-pointer technique** for the remaining array.  
 3. Skip duplicates to ensure unique triplets.  
 4. Return the list of triplets.
-
+## Why This Approach
+Sorting the array allows us to efficiently use the two-pointer technique.
+By fixing one element, the problem is reduced to a Two Sum variant,
+resulting in an optimal O(n²) solution.
 ## Real-World Applications
 - **Finance:** Detect three transactions that sum to a suspicious amount.  
 - **E-commerce:** Find three items matching a gift card value.  
