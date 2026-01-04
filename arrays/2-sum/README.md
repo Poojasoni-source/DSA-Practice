@@ -1,5 +1,5 @@
 ## __Two Sum Finder__
-##**Description**
+## **Description**
 This program finds two numbers in an array that sum to a given target value.
 It is a common problem in arrays and is often used in coding interviews and real-world applications.
 
