@@ -1,4 +1,3 @@
-
 Real-world intuition:
 This problem models situations where we want the longest sequence
 without repetition, such as:
